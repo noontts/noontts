@@ -5,6 +5,7 @@
 ### Hi there Welcome to my Github profile 👋
 - Thitisan Kankathok
 - :books: I'm studying Mathayom 6 (High School)
+- :books: Now I'm studying Digital Industry Integration (Developer) AT CAMT CMU!!
 - 🌱 I’m currently learning HTML ,CSS ,Javascript & more 😍
 
 :raising_hand: สวัสดีครับ ผม ธิติสรร กันกระโทก หรือหนุน กระผมเป็นคนที่ชอบและหลงไหลในการเขียนโปรแกรม ลองผิดลองถูก และ ชอบศึกษาสิ่งใหม่ๆ ครับ
