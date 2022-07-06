@@ -4,7 +4,7 @@
 
 ### Hi there Welcome to my Github profile 👋
 - Thitisan Kankathok
-- :books: I'm studying Mathayom 6 (High School)
+- :books: I'm studying ChiangMai University
 - :books: Now I'm studying Digital Industry Integration (Developer) AT CAMT CMU!!
 - 🌱 I’m currently learning HTML ,CSS ,Javascript & more 😍
 
