@@ -8,10 +8,8 @@
 - :books: Now I'm studying Digital Industry Integration (Developer) AT CAMT CMU!!
 - 🌱 I’m currently learning HTML ,CSS ,Javascript & more 😍
 
-:raising_hand: สวัสดีครับ ผม ธิติสรร กันกระโทก หรือหนุน กระผมเป็นคนที่ชอบและหลงไหลในการเขียนโปรแกรม ลองผิดลองถูก และ ชอบศึกษาสิ่งใหม่ๆ ครับ
+:raising_hand: Hi I'm Thitisan Kankathok
 
-
-![image](https://www.img.in.th/images/a3aa27af570906570e831df5fa129851.jpg)
 
 
 ## Get in touch :heartpulse:
