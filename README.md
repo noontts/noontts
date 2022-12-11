@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://www.img.in.th/images/6527f8e4cddd07aeaf2486860c46087c.png">
-</p>
 
 ### Hi there Welcome to my Github profile 👋
 - Thitisan Kankathok
