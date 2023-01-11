@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning HTML ,CSS ,Javascript & more 😍
 
 :raising_hand: Hi I'm Thitisan Kankathok
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noontts&show_icons=true&theme=radical)
 ## Get in touch :heartpulse:
 :point_right: **[My portfolio website :zap:](https://noontts.github.io/)**<br>
 :point_right: [Facebook](https://www.facebook.com/profile.php?id=100003297360023)<br>
