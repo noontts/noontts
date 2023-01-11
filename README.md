@@ -1,6 +1,6 @@
 
 ### Hi there Welcome to my Github profile 👋
-- Thitisan Kankathok
+- :raising_hand: Hi I'm Thitisan Kankathok
 - :books: I'm studying ChiangMai University
 - :books: Now I'm studying Digital Industry Integration (Developer) AT CAMT CMU!!
 - 🌱 I’m currently learning HTML ,CSS ,Javascript & more 😍
@@ -9,7 +9,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noontts&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noontts&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-:raising_hand: Hi I'm Thitisan Kankathok
+
 ## Get in touch :heartpulse:
 :point_right: **[My portfolio website :zap:](https://noontts.github.io/)**<br>
 :point_right: [Facebook](https://www.facebook.com/profile.php?id=100003297360023)<br>
