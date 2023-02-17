@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software engineer
 -----------------
 
-I'm studying Digital Industry Integration (Developer) College of Arts, Media and Technology , Chiang Mai University.
+I'm studying Digital Industry Integration (Developer) AT College of Arts, Media and Technology , Chiang Mai University.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [noonthitisan@gmail.com](mailto:noonthitisan@gmail.com)
